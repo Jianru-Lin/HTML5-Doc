@@ -58,4 +58,6 @@ code, kbd, samp, tt {
 
 pre {
 	font-family: Consolas;
+	letter-spacing: normal;
+	word-spacing: normal;
 }
