@@ -22,10 +22,40 @@ a[href]:hover {
 	background: none;
 }
 
+/* fix font-family problem */
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: inherit;
 }
 
 ul.domTree span {
 	font-family: inherit;
+}
+
+pre, code {
+	font-family: inherit;
+}
+
+.note {
+	font-family: inherit;
+}
+
+ul.domTree {
+	font-family: inherit;
+}
+
+ul.domTree .t2 {
+	font-family: inherit;
+}
+
+listing, plaintext, pre, xmp {
+	font-family: inherit;
+}
+
+code, kbd, samp, tt {
+	font-family: inherit;
+}
+
+pre {
+	font-family: Consolas;
 }
