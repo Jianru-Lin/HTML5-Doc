@@ -82,5 +82,5 @@ ul.toc, ol.toc {
 
 
 body {
-  background-image: url(//www.w3.org/StyleSheets/TR/logo-CR);
+  background-image: url('./StyleSheets/TR/logo-CR');
 }
