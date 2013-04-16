@@ -1,0 +1,31 @@
+body {
+	max-width: 800px;
+	margin: 0 auto 0 auto;
+}
+
+body {
+	font-family: Tahoma;
+	letter-spacing: .1em;
+	word-spacing: .1em;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a[href]:hover {
+	background: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: inherit;
+}
+
+ul.domTree span {
+	font-family: inherit;
+}
